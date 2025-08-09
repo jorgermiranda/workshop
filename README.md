@@ -38,6 +38,3 @@ Este material educativo está disponible para uso personal y educativo. Si quier
 
 👉 **[Empieza aquí: Unidad 01 - Instalación del Entorno de Desarrollo](unit_01.md)**
 
----
-
-*Curso creado con ❤️ para compartir el conocimiento y hacer la tecnología accesible para todos.*
