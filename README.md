@@ -19,6 +19,9 @@ Al finalizar este curso, los estudiantes podrán:
 
 ### Módulo 1: Fundamentos y Configuración
 - [Unidad 01: Instalación del Entorno de Desarrollo](unit_01.md)
+- [Unidad 02: Conceptos Básicos de Programación](unit_02_conceptos_basicos.md)
+- [Unidad 03: Funciones en JavaScript](unit_03_funciones.md)
+- [Unidad 04: Tipos de Datos y Estructuras de Control](unit_04_tipos_control.md)
 
 ## 💬 Comunicación
 
@@ -37,4 +40,3 @@ Este material educativo está disponible para uso personal y educativo. Si quier
 ¿Listo para iniciar tu viaje en el mundo de la programación y la IA? 
 
 👉 **[Empieza aquí: Unidad 01 - Instalación del Entorno de Desarrollo](unit_01.md)**
-
